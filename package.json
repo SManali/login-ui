@@ -1,0 +1,24 @@
+{
+    "name": "login-ui-portal",
+    "version": "0.0.1",
+    "description": "Single page application for good reads review, Node.js and expressJS",
+    "main": "app.js",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build"
+    },
+    "repository": {
+        "type": "git"
+    },
+    "author": {
+        "email": "sutar.manali@gmail.com",
+        "name": "Manali Sutar"
+    },
+    "keywords": [
+        "node",
+        "react"
+    ],
+    "dependencies": {
+        "react-scripts": "3.0.1"
+    }
+}
